@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eslam Mahmoud</h1>
-<h3 align="center">A Flutter Developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/eslam2021?tab=repositories](https://github.com/eslam2021?tab=repositories)
 
-- 💬 Ask me about **Flutter, Problem Solving**
+- 💬 Ask me about **Software , Problem Solving**
 
 - 📫 How to reach me **eslam.mahmoud344@gmail.com**
 
